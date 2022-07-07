@@ -1,0 +1,26 @@
+﻿{
+
+  "applications": {
+    "gecko": {
+      "id": "grifo-check@pabloso.com"
+    } 
+  },
+
+  "manifest_version": 2,
+  "name": "Grifo-Check",
+  "version": "1.6",
+  "minimum_chrome_version": "20.0",
+  "description": "Calcula o saldo das batidas de ponto do sistema Grifo, no âmbito da intranet do MPF - Ministério Público Federal.",
+
+  "icons": {
+    "48": "icons/icone.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["jquery-3.2.1.min.js","grifo-check.js"]
+    }
+  ]
+
+}
