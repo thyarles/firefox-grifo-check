@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 
 Name: grifo-check.js
 Digest-Algorithms: MD5 SHA1 SHA256
-MD5-Digest: oB1XdoMAyOzhKtn/4Z2F3g==
-SHA1-Digest: ZF0t5yX7a9eJntxp/gDXKinOOLQ=
-SHA256-Digest: I/9MO/uv/U1IRVu3uyqWvkM1VwJlNkk92RXuCPp0Zh0=
+MD5-Digest: VJ0lIXQ62wE/LF9xdIBdpg==
+SHA1-Digest: jfjXExrfDHjBtpaBZ98AcsdJubs=
+SHA256-Digest: nro46vdlxVTBrTwrB/Sc1OV+Gkp+MWoG8DmIAqJH4f0=
 
 Name: jquery-3.2.1.min.js
 Digest-Algorithms: MD5 SHA1 SHA256
@@ -14,9 +14,9 @@ SHA256-Digest: hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=
 
 Name: manifest.json
 Digest-Algorithms: MD5 SHA1 SHA256
-MD5-Digest: LNURDIZuyw5QBOPk3k08MQ==
-SHA1-Digest: kHL/cNvx13KtlYCU6R98CGyjiLU=
-SHA256-Digest: bQO6CiNGCBvBU9J+nNByiDGVtYMxIrOVuwq46Cfb4a8=
+MD5-Digest: LMQDqjxGeKjiJCAPwuLOBw==
+SHA1-Digest: 9b1m8Z9A8LR9Z4dcQou3WmiFnnU=
+SHA256-Digest: Q99fw4PgBuKBfVvcHM/S692JoPsj95UMpM7CbyYmaCg=
 
 Name: icons/icone.png
 Digest-Algorithms: MD5 SHA1 SHA256
